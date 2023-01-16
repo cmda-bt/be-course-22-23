@@ -117,9 +117,9 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [inspiration-link]: http://npm.anvaka.com/#/view/2d/express
 [inspiration-author]: https://github.com/anvaka
 
-[intro-node]: (https://nodejs.dev/en/learn/introduction-to-nodejs/
-[node-browser]: https://nodejs.dev/differences-between-nodejs-and-the-browser
-[node-npm]: https://nodejs.dev/learn/an-introduction-to-the-npm-package-manager
+[intro-node]: https://nodejs.dev/en/learn/introduction-to-nodejs/
+[node-browser]: https://nodejs.dev/en/learn/differences-between-nodejs-and-the-browser
+[node-npm]: https://nodejs.dev/en/learn/an-introduction-to-the-npm-package-manager
 
 [npmjs]: https://www.npmjs.com/
 [camelcase]: https://www.npmjs.com/package/camelcase
