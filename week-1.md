@@ -126,7 +126,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [lodash]: https://www.npmjs.com/package/lodash
 [nodeschool]: https://nodeschool.io/
 [intro-npm]: https://www.freecodecamp.org/news/introduction-to-npm-scripts-1dbb2ae01633/
-[global]: https://nodejs.dev/npm-global-or-local-packages
+[global]: https://flaviocopes.com/npm-packages-local-global/
 [issues]: https://github.com/cmda-bt/be-course-21-22/issues/new/choose
 [fe-be]: https://zellwk.com/blog/frontend-vs-backend/
 [github-node-gitignore]: https://github.com/github/gitignore/blob/master/Node.gitignore
