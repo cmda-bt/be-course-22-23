@@ -92,7 +92,7 @@ or [`skin-tone`](https://github.com/sindresorhus/skin-tone/blob/master/package.j
 We'll install Express and create a very basic server that responds to our requests. 
 
 1. Install `express` and require it in `server.js`
-2. Use _http_ methods to have you server respond with _hello world_ when you open `localhost`
+2. Use _http_ methods to have your server respond with _hello world_ when you open `localhost`. Use the resource below as an example of how to do this.
 
 **Ask yourself upon completion:**
 * The server you just wrote? Where does it live? What happens if you turn off your computer?
