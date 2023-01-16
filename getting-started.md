@@ -19,7 +19,7 @@ This guide assumes you already followed the **getting started guide from project
 
 ## Installation
 
-### Node
+### Node - installation on Mac
 
 Open your **terminal**, and install [nvm](https://github.com/creationix/nvm) like
 so:
@@ -54,6 +54,16 @@ You can use **nvm** to update Node in the future.  npm can update itself
 (`npm install -g npm`).
 
 > You might encouter an [`eaccess`][eacces] problem if you installed Node using the [installer][installer]. We do not recommend using a Node installer but the Node version manager (nvm) as stated above, since the Node installation process installs npm in a directory with local permissions and can cause permissions errors when you run npm packages globally.
+
+### Node - installation on Windows
+On Windows there is no nvm, so we will just go to the [node.js website](https://nodejs.org/). From there, download and install node.js for Windows. It might be best to use the LTS (Long-Term Support) version, as this is the latest stable release. 
+
+Node is now installed (and npm with it). You can check it in PowerShell by running:
+
+```sh
+node -v # Should print 18.13.0 (or a higher version)
+npm -v # Something like 8.19.0 (or a higher version)
+```
 
 ### Additional tools (optional)
 Installing Node and NPM is enough for the first couple of weeks. But additionally you can already install some tools we'll use from _week-4 and onwards._
