@@ -33,7 +33,7 @@ Before you start you'll probably want to read a bit about **Node,** the **JavaSc
 ## Playground
 You can do these exercises before you start working on the assignments to get comfortable with the topics covered in class. The below are interactive, self guided lesson modules, from [freeCodeCamp](https://www.freecodecamp.org). If you feel a bit more adventurous you can try the [NodeSchool workshoppers](https://nodeschool.io).
 
-* [freeCodeCamp - Managing Packages with NPM (exercises)](https://www.freecodecamp.org/learn)
+* [freeCodeCamp - What is npm? A Node Package Manager Tutorial for Beginners](https://www.freecodecamp.org/news/what-is-npm-a-node-package-manager-tutorial-for-beginners/)
 * [How to NPM (workshopper)](https://github.com/workshopper/how-to-npm)
 
 ## Assignments
@@ -72,7 +72,7 @@ or [`skin-tone`](https://github.com/sindresorhus/skin-tone/blob/master/package.j
 * What tasks can you run with `npm run scripts`?
 
 **Additional resources**
-* [Introduction to NPM Scripts][intro-npm]
+* [What are NPM Scripts][intro-npm]
 * [Npm global or local packages][global]
 
 [🎦 _Watch a live demo_ about NPM and packages.][videopackage]
@@ -125,7 +125,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [camelcase]: https://www.npmjs.com/package/camelcase
 [lodash]: https://www.npmjs.com/package/lodash
 [nodeschool]: https://nodeschool.io/
-[intro-npm]: https://www.freecodecamp.org/news/introduction-to-npm-scripts-1dbb2ae01633/
+[intro-npm]: https://medium.com/@mariokandut/what-are-npm-scripts-cde15d275a9f
 [global]: https://flaviocopes.com/npm-packages-local-global/
 [issues]: https://github.com/cmda-bt/be-course-21-22/issues/new/choose
 [fe-be]: https://zellwk.com/blog/frontend-vs-backend/
