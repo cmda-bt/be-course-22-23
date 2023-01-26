@@ -14,15 +14,15 @@
 
 ## Synopsis
 
-The course **Back-end** is given at [**@CMDA**][cmda] in 2022 between February and June.
+The course **Back-end** is given at [**@CMDA**][cmda] in 2023 between February and June.
 
 *   **Course**: [Backend Development][course] (`2000BAD_16`)
-*   **Coordinator**: [Danny de Vries][dangit] - d.de.vries4@hva.nl
+*   **Coordinator**: [Sonja Rouwhorst][songit] ([**@rouws**][songit])
 *   **Lecturers**:
-    [Danny de Vries][dangit] ([**@dandevri**][danweb]),
-    [Sonja Rouwhorst][songit] ([**@rouws**][songit]) and [Ioannis Kapritsias][jangit] ([**@turiguilano**][janweb])
+    [Ioannis Kapritsias][jangit] ([**@turiguilano**][janweb]) and [Ivo Nijhuis][ivogit] ([**@ivo-online**][ivogit])
+*   **Honorary mention**: [Danny de Vries][dangit]
 *   **Credit**: 3 ECTS
-*   **Academic year**: 2021-2022
+*   **Academic year**: 2022-2023
 *   **Period**: Quarter 3 (spring)
 *   **University**: [Amsterdam University of Applied Sciences][university]
 *   **Programme**: [Communication and Multimedia Design][cmd] (full time bachelor CROHO: `34092`)
@@ -166,6 +166,7 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 [songit]: https://github.com/rouws
 [jangit]: https://github.com/TuriGuilano
 [janweb]: https://www.softsquare.nl
+[ivogit]: https://github.com/ivo-online
 [node]: https://nodejs.org/en/
 [mongodb]: https://www.mongodb.com/
 [http]: https://tools.ietf.org/html/rfc2068
@@ -174,7 +175,7 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 [gh]: https://github.com/cmda-be/course-18-19
 [examples]: /examples
 [teams]: http://teams.microsoft.com
-[brightspace]: https://dlo.mijnhva.nl/d2l/home/192551
+[brightspace]: https://dlo.mijnhva.nl/d2l/home/437069
 [examples]: examples
 [stackoverflow]: https://stackoverflow.com
 [duckduckgo]: https://duckduckgo.com
