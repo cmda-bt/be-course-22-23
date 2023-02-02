@@ -130,7 +130,7 @@ When you create your Cluster in Atlas you might need to [Whitelist your IP](http
 **Additional resources**
 
 - [Get Started with Atlas](https://docs.atlas.mongodb.com/getting-started)
-- [Hiding API Keys with Environment Variables (dotenv)](env)
+- [Hiding API Keys with Environment Variables - dotenv](https://www.youtube.com/watch?v=17UVejOw3zA)
 
 ## Hand-in
 
@@ -161,7 +161,6 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [body]: https://www.npmjs.com/package/body-parser
 [multer]: https://www.npmjs.com/package/multer#readme
 [videorequest]: https://www.youtube.com/watch?v=IS3HRyUXJX0
-[env]: https://www.youtube.com/watch?v=17UVejOw3zA
 
 [lab3a]: /slides/be_20-21_lab-3a.pdf
 [lab3b]: /slides/be_20-21_lab-3b.pdf
