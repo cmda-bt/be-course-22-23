@@ -20,7 +20,7 @@ The course **Back-end** is given at [**@CMDA**][cmda] in 2023 between February a
 *   **Coordinator**: [Sonja Rouwhorst][songit] ([**@rouws**][songit])
 *   **Lecturers**:
     [Ioannis Kapritsias][jangit] ([**@turiguilano**][janweb]) and [Ivo Nijhuis][ivogit] ([**@ivo-online**][ivogit])
-*   **Honorary mention**: [Danny de Vries][dangit] [Titus Wormer] [titgit]
+*   **Honorary mention**: [Danny de Vries][dangit] [Titus Wormer][titgit]
 *   **Credit**: 3 ECTS
 *   **Academic year**: 2022-2023
 *   **Period**: Quarter 3 & 4 (spring)
