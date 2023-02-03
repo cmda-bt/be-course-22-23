@@ -172,7 +172,7 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 [http]: https://tools.ietf.org/html/rfc2068
 [minor]: https://cmda.github.io/minor-everything-web/
 [track]: https://github.com/cmda-tt
-[gh]: https://github.com/cmda-be/course-22-23
+[gh]: https://github.com/cmda-bt/be-course-22-23
 [examples]: /examples
 [teams]: http://teams.microsoft.com
 [brightspace]: https://dlo.mijnhva.nl/
