@@ -20,7 +20,7 @@ The course **Back-end** is given at [**@CMDA**][cmda] in 2023 between February a
 *   **Coordinator**: [Sonja Rouwhorst][songit] ([**@rouws**][songit])
 *   **Lecturers**:
     [Ioannis Kapritsias][jangit] ([**@turiguilano**][janweb]) and [Ivo Nijhuis][ivogit] ([**@ivo-online**][ivogit])
-*   **Honorary mention**: [Danny de Vries][dangit]
+*   **Honorary mention**: [Danny de Vries][dangit] [Titus Wormer] [titgit]
 *   **Credit**: 3 ECTS
 *   **Academic year**: 2022-2023
 *   **Period**: Quarter 3 & 4 (spring)
@@ -50,7 +50,7 @@ If you have questions:
 
 *   Read the manual for the technology in question
     ([Git](https://git-scm.com/docs),
-    [GitHub](https://guides.github.com),
+    [GitHub](https://docs.github.com/en),
     [Node](https://nodejs.org/api/),
     [npm](https://docs.npmjs.com),
     [express](http://expressjs.com/en/4x/api.html),
@@ -167,6 +167,7 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 [jangit]: https://github.com/TuriGuilano
 [janweb]: https://www.softsquare.nl
 [ivogit]: https://github.com/ivo-online
+[titgit]: https://github.com/wooorm
 [node]: https://nodejs.org/en/
 [mongodb]: https://www.mongodb.com/
 [http]: https://tools.ietf.org/html/rfc2068
