@@ -7,11 +7,10 @@
 
 ## Counseling
 If you are experiencing difficulties, know that help is available.
-Please contact your [student counsellor][counsel] for help with study stress, dyslexia, disabilities, chronic illness, personal problems, etc. If you are studying at the AUAS and you need care from a doctor of psychologist, you can contact the [the Office of Student Doctors and Office of Student Psychologists][office].
+Please contact your [student counsellor][counsel] for help with study stress, dyslexia, disabilities, chronic illness, personal problems, etc. 
 
 Any information you share with the student counsellor will be treated as confidential according to the guidelines of the new privacy law ([the General Data Protection Regulation][avg]) and the [AUAS's guidelines][hvavg].
 
-[counsel]: https://www.amsterdamuas.com/practical-matters/general/auas/student-affairs/student-counsellors/contact-student-counsellors/student-counsellors.html
+[counsel]: https://icthva.sharepoint.com/sites/Studentendecanen
 [avg]: https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/algemene-informatie-avg/algemene-informatie-avg
 [hvavg]: https://www.hva.nl/praktisch/algemeen/etalage/privacy-en-security/bescherming-persoonsgegevens/bescherming-persoonsgegevens.html?origin=gbS4rg/DTZuxQ6lGVF+N1A
-[office]: https://www.hva.nl/praktisch/algemeen/hva-breed/studentenzaken/studentenartsen-en-psychologen/studentenartsen-en-psychologen.html

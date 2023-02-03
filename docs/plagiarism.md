@@ -1,7 +1,7 @@
 # Statement of Academic Integrity
 
 > Plagiarism is presenting someone else’s work as though it were your own. We report it to our assessment committee
-([examencommissie](https://moodle.cmd.hva.nl/mod/page/view.php?id=1738) in Dutch). 
+("examencommissie" in Dutch). 
 
 ## Plagiarism
 See ¶ 6.1.2 of Teaching and Examination
@@ -27,7 +27,7 @@ a full definition, but here are a few cases that count as plagiarism:
 >
 > \[…]
 
-You are not allowed to simply use portions of someone else's work in your project. The copyright is owned by the creator of the work. You must cite the sources used. Quoting or using material without a source citation is plagiarism and is punishable. More information on the [Student Copyright Information Point](https://www.amsterdamuas.com/library/support/search/acknowledging-sources/acknowledging-sources.html). Make sure you cite your sources in the repository, code comments or documentation of your project on GitHub.
+You are not allowed to simply use portions of someone else's work in your project. The copyright is owned by the creator of the work. You must cite the sources used. Also when you use a generative AI tool such as ChatGPT or Co-pilot to render code. Quoting or using material without a source citation is plagiarism and is punishable. More information on the [Student Copyright Information Point](https://www.amsterdamuas.com/library/support/search/acknowledging-sources/acknowledging-sources.html). Make sure you cite your sources in the repository, code comments or documentation of your project on GitHub.
 
 ## Open source software
 

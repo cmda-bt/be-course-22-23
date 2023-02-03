@@ -20,7 +20,7 @@ If you have a functional disability or chronic illness that may affect your stud
 We have class in several different locations troughout the Amstel Campus. All AUAS buildings are [wheelchair accessible][building]. 
 
 ## Contact
-* If media **in this course** is not accessible please contact _d.de.vries4@hva.nl_. 
+* If media **in this course** is not accessible please contact _s.e.rouwhorst@hva.nl_. 
 * If media **from the AUAS** is not accessible you can contact _digitaletoegankelijkheid@hva.nl_.
 * If you want to speak up about studying with a disability you can become a member of the AUAS ['limitless' program][limitless]. 
 
