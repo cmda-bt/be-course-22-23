@@ -1,4 +1,4 @@
- # ![Backend - Course 2021-2022][banner]
+ # ![Backend - Course 2022-2023][banner]
 
 ## Table of Content
 
@@ -23,7 +23,7 @@ The course **Back-end** is given at [**@CMDA**][cmda] in 2023 between February a
 *   **Honorary mention**: [Danny de Vries][dangit]
 *   **Credit**: 3 ECTS
 *   **Academic year**: 2022-2023
-*   **Period**: Quarter 3 (spring)
+*   **Period**: Quarter 3 & 4 (spring)
 *   **University**: [Amsterdam University of Applied Sciences][university]
 *   **Programme**: [Communication and Multimedia Design][cmd] (full time bachelor CROHO: `34092`)
 *   **Faculty**: [Digital Media and Creative Industries][faculty]
@@ -33,9 +33,9 @@ The course **Back-end** is given at [**@CMDA**][cmda] in 2023 between February a
 ## Description
 In Back-end we peek behind the curtains and inspect what’s behind the web. You build web apps with [Node.js][node], communicate with [HTTP][http], and store data in a database with [MongoDB][mongodb]. In this course you’ll advance your web dev skills. You’ll learn to use computers to actually make what you design work: people can actually fill in forms, like things, and upload files.
 
-Back-end is an elective course given in Quarter 3 (spring) after the core curriculum of our programme, building further on knowledge acquired in *Internetstandaarden*, *Inleiding Programmeren*, and *Blok Web*. This course is chosen alongside **Frontend 2** and **Project Tech**, together making up Block Tech. 
+Back-end is an elective course given in Quarter 3 and 4 (spring) after the core curriculum of our programme, building further on knowledge acquired in *Internetstandaarden*, *Inleiding Programmeren*, and *Blok Web*. This course is chosen alongside **Frontend 2** and **Project Tech**, together making up Block Tech. 
 
-If you’d like to continue with web development after this course, do a tech internship, choose the [Tech Track][track] for the fall semester next year, and pick [Minor Everything Web][minor] in the spring semester after that. Just a quick check if anyone actually reads this: if you see this, please send your teacher a picture of your favorite animal.
+If you’d like to continue with web development after this course, do a tech internship, choose the [Tech Track][track] for the fall semester next year, and pick [Minor Web Design and Development][minor] in the spring semester after that. Just a quick check if anyone actually reads this: if you see this, please send your teacher a picture of your favorite animal.
 
 _Back-end is part of the  CMD Amsterdam **design & build space** (technical course) that focusses on   Conceptualizing (2), Imagining and creating (3), Multidisciplinary collaboration (5) & Research (9) competences._ 
 
@@ -96,7 +96,7 @@ In practice you’ll learn to:
 * <a name="subgoal-8"></a>
     Store and update data in a MongoDB database ([**week 4**][w4])
 * <a name="subgoal-9"></a>
-    Use localStorage to store data client-side ([**week 4**][w4])
+    Use localStorage to store data client-side ([**week 5**][w4])
 * <a name="subgoal-10"></a>
     _Pick your own topic to work on (deploy, security etc.)_ ([**week 5+**][w5])
 
@@ -156,9 +156,9 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 
 ## License
 
-[MIT][] © [Danny de Vries][dangit], docs and images are [CC-BY-4.0][].
+[MIT][], docs and images are [CC-BY-4.0][].
 
-[banner]: https://cmda-bt.github.io/be-course-21-22/assets/banner.svg
+[banner]: https://cmda-bt.github.io/be-course-22-23/assets/banner.svg
 [cmd]: https://www.cmd-amsterdam.nl/english/
 [cmda]: https://github.com/cmda
 [dangit]: https://github.com/dandevri
@@ -172,11 +172,10 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 [http]: https://tools.ietf.org/html/rfc2068
 [minor]: https://cmda.github.io/minor-everything-web/
 [track]: https://github.com/cmda-tt
-[gh]: https://github.com/cmda-be/course-18-19
+[gh]: https://github.com/cmda-be/course-22-23
 [examples]: /examples
 [teams]: http://teams.microsoft.com
-[brightspace]: https://dlo.mijnhva.nl/d2l/home/437069
-[examples]: examples
+[brightspace]: https://dlo.mijnhva.nl/
 [stackoverflow]: https://stackoverflow.com
 [duckduckgo]: https://duckduckgo.com
 [synopsis]: #synopsis
@@ -185,14 +184,13 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 [faculty]: https://www.amsterdamuas.com/faculty/fdmci/faculty-of-digital-media-and-creative-industries.html
 [university]: https://www.amsterdamuas.com
 [coc]: code-of-conduct.md
-[ruc]: https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority
-[rog]: https://www.hva.nl/praktisch/algemeen/hva-breed/juridische-zaken/loket-beroep-bezwaar-en-klacht/regeling-ongewenst-gedrag/regeling-ongewenst-gedrag.html?origin=gbS4rg%2FDTZuxQ6lGVF%2BN1A
+[ruc]: https://www.amsterdamuas.com/study/study-choice/life-at-auas/support
+[rog]: https://www.hva.nl/praktisch/algemeen/hva-breed/juridische-zaken/loket-beroep-bezwaar-en-klacht/regeling-ongewenst-gedrag/regeling-ongewenst-gedrag.html
 [author]: https://dandevri.es
 [mit]: license.md#code
-[cc-by-4.0]: license.md#documentation-and-images
-[faq]: https://dlo.mijnhva.nl/d2l/lms/faq/view_faq.d2l?ou=32096
+[cc-by-4.0]: https://license.md/licenses/cc-by-4-0-int/
 [class]: https://rooster.hva.nl/
-[course]: https://studiegids.hva.nl/#/cmd-vt/1/010624
+[course]: https://studiegids.hva.nl/co/cmd-vt/100000001/088775
 [oec]: https://www.oeglobal.org
 
 [gs]: getting-started.md
