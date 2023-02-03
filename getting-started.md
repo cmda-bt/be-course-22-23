@@ -15,7 +15,7 @@ This getting started guide will get you up and running with all the software and
 
 ## Prerequisites
 
-This guide assumes you already followed the **getting started guide from project-tech**. So you should already have a _Text Editor_, _GitHub account_ and _configured Git_.
+This guide assumes you already followed the **[getting started guide from project-tech][getting-started-pt]**. So you should already have a _Text Editor_, _GitHub account_ and _configured Git_.
 
 ## Installation
 
@@ -25,7 +25,7 @@ Open your **terminal**, and install [nvm](https://github.com/creationix/nvm) lik
 so:
 
 ```sh
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 ```
 
 You can check if `nvm` correctly installed by typing:
@@ -33,9 +33,9 @@ You can check if `nvm` correctly installed by typing:
 nvm --version # Should print a version number
 ```
 
-> There is a chance you get a `nvm command not found` error message. That means that there was a problem with installing NVM. In some cases you'll have to [manually load NVM in your profile](https://stackoverflow.com/questions/16904658/node-version-manager-install-nvm-command-not-found).
+> There is a chance you get a `nvm command not found` error message. That means that there was a problem with installing NVM. Please read the [troubleshouting section on nvm carefully](https://github.com/nvm-sh/nvm#troubleshooting-on-macos) to fix this problem 
 
-Close and re-open your terminal and now run the following:
+**Close and re-open** your terminal and now run the following:
 
 ```sh
 nvm install stable
@@ -44,11 +44,11 @@ nvm install stable
 Node is now installed (and npm with it). You can check it by running:
 
 ```sh
-node -v # Should print 9.4.0 (or a higher version)
-npm -v # Something like 5.6.0 (or a higher version)
+node -v # Should print v18.12.1 (or a higher version)
+npm -v # Something like 9.2.0 (or a higher version)
 ```
 
-[🎦 _Watch a video_ on how to install Node.][videonode]
+[🎦 _Watch a video_ on how to install Node on MacOS.][videonode]
 
 You can use **nvm** to update Node in the future.  npm can update itself
 (`npm install -g npm`).
@@ -88,19 +88,15 @@ Sign up for our _Blok-Tech_ MS Team. **You can find the sign-up code in the anno
 
 ### GitHub
 
-GitHub is a social platform so give this repository `be-course-21-22` [a ⭐ star][star] and start [following][follow] your teachers and fellow students!
+GitHub is a social platform so give this repository `be-course-22-23` [a ⭐ star][star] and start [following][follow] your teachers and fellow students!
 
 **_Wow, you did it! You finished the getting started guide for back-end. Virtual high five! 🖐_**
 
-[examples]: examples
-[stackoverflow]: https://stackoverflow.com
-[duckduckgo]: https://duckduckgo.com
-[synopsis]: #synopsis
-[banner-guide]: https://cmda-bt.github.io/be-course-20-21/assets/banner-guide.svg
+[getting-started-pt]: https://github.com/cmda-bt/pt-course-22-23/blob/main/getting-started.md
+[banner-guide]: https://cmda-bt.github.io/be-course-22-23/assets/banner-guide.svg
 [installer]: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 [eacces]: https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
-[notifications]: https://help.github.com/en/github/managing-subscriptions-and-notifications-on-github/configuring-notifications
-[course]: https://courseselector.mijnhva.nl/nl#/CourseSelector/78076118-8f51-e911-a82e-000d3a29a761/2019-2020
+[course]: https://courseselector.mijnhva.nl/
 
 [videonode]: https://www.youtube.com/watch?v=EQWyWQhphGw
 [videoask]: https://www.youtube.com/watch?v=0CARthL2RPo

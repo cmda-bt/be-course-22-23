@@ -73,4 +73,4 @@ version 1.4, available at [`contributor-covenant.org/version/1/4`][version].
 
 [home]: https://contributor-covenant.org
 [version]: https://contributor-covenant.org/version/1/4/
-[contact]: mailto:d.de.vries4@hva.nl?subject=backend:coc:%20
+[contact]: mailto:s.e.rouwhorst@hva.nl?subject=backend:coc:%20
