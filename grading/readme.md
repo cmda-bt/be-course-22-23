@@ -45,12 +45,12 @@ The main goals in this course:
 ### A1 - Feature (Individual)
 This is an *oral test* where you individually present the **feature you created** for back-end. You will answer questions in such a way as to demonstrate sufficient knowledge of our goals.
 
-→ [Rubric of assessment 1][a1]
+→ [Rubric of assessment 1][rubric a1]
 
 ### A2 - Application (Team)
 This is an *oral test* where you **present your prototype with your team**. You will show how you contributed to the project and explain if you reached your own goals you've set at the beginning of the project.
 
-→ [Rubric of assessment 2][a2]
+→ [Rubric of assessment 2][rubric a2]
 
 ## Plagiarism
 
@@ -68,6 +68,8 @@ Grades will be published and communicated in _Brightspace_.
 
 [a1]: https://github.com/cmda-bt/be-course-22-23/blob/master/grading/a1.md
 [a2]: https://github.com/cmda-bt/be-course-22-23/blob/master/grading/a2.md
+[rubric a1]: https://cmda-bt.github.io/be-course-22-23/assets/rubric-a1.pdf
+[rubric a2]: https://cmda-bt.github.io/be-course-22-23/assets/rubric-a2.pdf
 [banner]: https://cmda-bt.github.io/be-course-22-23/assets/banner-grading.svg
 [grading]: /grading/readme.md
 [plagiarism]: https://github.com/cmda-bt/be-course-22-23/blob/main/docs/plagiarism.md
