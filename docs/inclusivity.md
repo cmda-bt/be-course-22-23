@@ -14,7 +14,7 @@ Most of our course material is accessible by default. We check our course materi
 ## Studying with a functional disability
 If you have a functional disability or chronic illness that may affect your study progress, you can request a assessment provision.
 
-* Frequently asked questions about [functional disabilities][disability]
+* Frequently asked questions about [special needs][special-needs]
 * Request a [provision][provision] 
 
 We have class in several different locations troughout the Amstel Campus. All AUAS buildings are [wheelchair accessible][building]. 
@@ -24,9 +24,9 @@ We have class in several different locations troughout the Amstel Campus. All AU
 * If media **from the AUAS** is not accessible you can contact _digitaletoegankelijkheid@hva.nl_.
 * If you want to speak up about studying with a disability you can become a member of the AUAS ['limitless' program][limitless]. 
 
-[rog]: https://www.hva.nl/praktisch/algemeen/hva-breed/juridische-zaken/loket-beroep-bezwaar-en-klacht/regeling-ongewenst-gedrag/regeling-ongewenst-gedrag.html?origin=gbS4rg%2FDTZuxQ6lGVF%2BN1A
-[building]: https://www.amsterdamuas.com/practical-matters/general/auas/facility-services/building-accessibility/building-accessibility.html
+[building]: https://www.amsterdamuas.com/study/building-accessibility
 [limitless]: https://www.hva.nl/praktisch/algemeen/etalage/limitless/limitless.html
-[disability]: https://www.hva.nl/praktisch/studiekiezers/hva-breed/studentenzaken/studeren-met-een-functiebeperking/veelgestelde-vragen/veelgestelde-vragen.html
+[special-needs]: https://www.hva.nl/studeren/informatie-voor/studenten-met-speciale-behoeften
 [provision]: https://www.hva.nl/praktisch/studiekiezers/hva-breed/studentenzaken/studeren-met-een-functiebeperking/studeren-met-een-functiebeperking.html
 [wcag]: https://www.accessibility.nl/kennisbank/artikelen/eenvoudige-beschrijving-toegankelijkheidsrichtlijnen
+[rog]: https://www.hva.nl/praktisch/algemeen/hva-breed/juridische-zaken/loket-beroep-bezwaar-en-klacht/regeling-ongewenst-gedrag/regeling-ongewenst-gedrag.html
