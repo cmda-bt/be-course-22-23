@@ -174,7 +174,7 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 [minor]: https://cmda.github.io/minor-everything-web/
 [track]: https://github.com/cmda-tt
 [gh]: https://github.com/cmda-bt/be-course-22-23
-[examples]: https://github.com/cmda-bt/be-course-21-22/examples
+[examples]: https://github.com/cmda-bt/be-course-21-22/tree/main/examples
 [teams]: http://teams.microsoft.com
 [brightspace]: https://dlo.mijnhva.nl/
 [stackoverflow]: https://stackoverflow.com
