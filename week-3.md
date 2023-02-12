@@ -66,9 +66,7 @@ Think about the _movie example_ from the lecture:
 There are roughly _3 ways to send data from the client to the server_: 1) using query parameters 2) fetch from the client to the server 3) use HTTP request methods on a form. The last one (third) is probably the most common way and easiest way to get started. So roughly, a user submits a form the client posts the form using HTTP and the `body` of the form is received by the server.
 
 1. You can use query and parameters but you'll probably want to use `HTTP request methods` such as `post` or `delete`. It's a good idea to create a form with your templating engine.
-2. There are several packages from NPM that make working with data coming in from request (`req.body`) easier. We recommend the following:
-   * [`body-parser`][body] parse incoming request bodies
-   * [`multer`][multer] handles `multipart/form-data` use this for file uploads.
+2. There are several packages from NPM that make working with data coming in from request (`req.body`) easier. We recommend [`multer`][multer] for file uploads, to handle `multipart/form-data`.
 3. Start with _receiving input_ (`post`) and temporarily store it on the server (we'll cover storing that to a database next week). Then build from there, such as deleting (`delete`) or let the user edit (`update`).
 4. If you have received the data server-side you can event send it back to the client again so the user can see. You'll need to `re-render the template` and _`'inject the data'`_ from the user dynamically into the template.
 
