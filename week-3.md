@@ -17,8 +17,7 @@
 *  [Hand in](#hand-in)
 
 ## Slides
-* [Lab-3a][lab3a]
-* [Lab-3b][lab3b]
+* [Lab-3][lab3]
 
 ## Theory
 
@@ -35,7 +34,7 @@ Before you start you'll probably want to read a bit about **HTTP,** **request me
 
 You can do these exercises before you start working on the assignments to get comfortable with the topics covered in class. The below are interactive self guided lesson modules from [freeCodeCamp](https://www.freecodecamp.org). 
 
-* [freeCodeCamp - Basic Node and Express (exercises)](https://www.freecodecamp.org/learn)
+* [freeCodeCamp - Basic Node and Express (exercises)](https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express)
 
 ## Assignments
 
@@ -109,18 +108,18 @@ Setting-up a database connection isn't 'difficult' but there are lots of small s
 
 > **Ask questions in the #back-end channel** if you are stuck! We try to link to relevant resources for common 'start-up' issues but if you encounter a specific problem don't try to fix it yourself but ask for help.
 
-→ The best resource we found to set-up your database is the official ['connect to MongoDB' drive guide](https://docs.mongodb.com/guides/server/drivers/). Which roughly outline the following steps:
+→ The best resource we found to set-up your database is the official ['MongoDB start with guide](https://www.mongodb.com/docs/guides/atlas/account/). Which roughly outline the following steps:
 
 ```
-1. Make account
-2. Make organization
-3. Make cluster
-4. Make database
-5. Create dbUSer
-6. Set-up connection
+1. Create MongoDB account
+2. Create a cluster
+3. Add a database user
+4. Configure a network connection
+5. Load sample data
+6. Get connection string
 ```
 
-When you create your Cluster in Atlas you might need to [Whitelist your IP](https://docs.atlas.mongodb.com/security-whitelist/).
+When you create your Cluster in Atlas you might need to [Whitelist your IP](https://www.mongodb.com/docs/guides/atlas/network-connections/).
 
 > **🚨 Never ever put your username, password or database URI directly in your code.**
 > Store sensitive information such as your database URI, password and username in a `.env` using the [`dotenv`](https://www.npmjs.com/package/dotenv) package. Make sure you add the file to your `.gitignore`. If you commit your environment variables it's hard to undo!
@@ -129,7 +128,7 @@ When you create your Cluster in Atlas you might need to [Whitelist your IP](http
 
 **Additional resources**
 
-- [Get Started with Atlas](https://docs.atlas.mongodb.com/getting-started)
+- [Start using the MongoDB driver for Node.js](https://www.mongodb.com/docs/guides/crud/install/)
 - [Hiding API Keys with Environment Variables - dotenv](https://www.youtube.com/watch?v=17UVejOw3zA)
 
 ## Hand-in
@@ -162,5 +161,4 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [multer]: https://www.npmjs.com/package/multer#readme
 [videorequest]: https://www.youtube.com/watch?v=IS3HRyUXJX0
 
-[lab3a]: /slides/be_20-21_lab-3a.pdf
-[lab3b]: /slides/be_20-21_lab-3b.pdf
+[lab3]: /slides/be_lab-3_22-23.pdf
