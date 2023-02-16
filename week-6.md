@@ -64,5 +64,5 @@ Your assignment will be reviewed by teachers and student assistants, so expect p
 [inspiration-link]: https://twitter.com/cassidoo/status/1154809678607446016?lang=en
 [inspiration-author]: https://twitter.com/cassidoo
 
-[issues]: https://github.com/cmda-bt/be-course-20-21/issues/new/choose
+[issues]: https://github.com/cmda-bt/be-course-22-23/issues
 [topics]: /topics.md
