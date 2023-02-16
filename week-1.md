@@ -107,7 +107,7 @@ We'll install Express and create a very basic server that responds to our reques
 Commit your progess in your repository on GitHub under your username in your own matching-app repository.
 
 2. **Create an issue:**  
-Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template of `week-1.md` with the correct information. Include what progress you made in the description of the issue.
+Mark this assignment as complete by opening an issue on our [GitHub issue tracker](https://github.com/cmda-bt/be-course-22-23/issues). Fill in the progress report template with your own information. Include what progress you made in the description of the issue.
 
 3. **Feedback:**  
 Let us know what you thought of the homework, what part you spend a lot of time on and give us any feedback. Your assignment will be reviewed by teachers and student assistants, so expect people to read it and be ready for tips and tops!
@@ -127,7 +127,6 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [nodeschool]: https://nodeschool.io/
 [intro-npm]: https://medium.com/@mariokandut/what-are-npm-scripts-cde15d275a9f
 [global]: https://flaviocopes.com/npm-packages-local-global/
-[issues]: https://github.com/cmda-bt/be-course-21-22/issues/new/choose
 [fe-be]: https://zellwk.com/blog/frontend-vs-backend/
 [github-node-gitignore]: https://github.com/github/gitignore/blob/master/Node.gitignore
 
