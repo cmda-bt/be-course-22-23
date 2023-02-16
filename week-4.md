@@ -95,7 +95,7 @@ Then start storing the user input for your matching application in the database!
 Commit your progess in your repository on GitHub under your username in your own matching-app repository.
 
 2. **Create an issue:**  
-Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template of `week-4.md` with the correct information. Include what progress you made in the description of the issue.
+Mark this assignment as complete by opening an issue on our [GitHub issue tracker](https://github.com/cmda-bt/be-course-22-23/issues). Fill in the progress report template with your own information. Include what progress you made in the description of the issue.
 
 3. **Feedback:**  
 Let us know what you thought of the homework, what part you spend a lot of time on and give us any feedback. Your assignment will be reviewed by teachers and student assistants, so expect people to read it and be ready for tips and tops!
@@ -111,7 +111,6 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [workshopper]: https://github.com/azat-co/expressworks
 [query]: https://www.youtube.com/watch?v=zDovsTG2a7g
 [template]: https://expressjs.com/en/guide/using-template-engines.html
-[issues]: https://github.com/cmda-bt/be-course-20-21/issues/new/choose
 [body]: https://www.npmjs.com/package/body-parser
 [multer]: https://www.npmjs.com/package/multer#readme
 [drawings]: https://docs.google.com/drawings
