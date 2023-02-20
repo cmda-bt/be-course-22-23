@@ -20,8 +20,7 @@
 
 ## Slides
 
-- [Lecture-4][lab4a]
-- [Lab-4][lab4b]
+- [Lab4][lab4]
 
 ## Theory
 
@@ -35,7 +34,7 @@ Before you start you'll probably want to read a bit about **Databases,** **JSON,
 
 You can do these exercises before you start working on the assignments to get comfortable with the topics covered in class. The below are interactive self guided lesson modules from [freeCodeCamp](https://www.freecodecamp.org). If you feel a bit more adventurous you can try the [NodeSchool workshoppers](https://nodeschool.io).
 
-- [freeCodeCamp MongoDB and Mongoose](https://www.freecodecamp.org/learn/)
+- [freeCodeCamp MongoDB and Mongoose](https://www.freecodecamp.org/learn/back-end-development-and-apis/#mongodb-and-mongoose)
 - [learnouMongo workshopper (exercise)](https://github.com/evanlucas/learnyoumongo)
 
 ## Assignments
@@ -122,5 +121,4 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [intro-database]: https://dev.to/maludecks/modern-databases-their-differences-294a
 [intro-documents]: https://docs.mongodb.com/manual/core/document/
 
-[lab4a]: /slides/be_20-21_lab-4a.pdf
-[lab4b]: /slides/be_20-21_lab-4b.pdf
+[lab4]: /slides/be_lab-4_22-23.pdf
