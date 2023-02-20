@@ -52,8 +52,6 @@ Make sure you hand-in your work in the assignments `a1` slot on Brightspace.
 * A link to your _repository_
 * A `zip` _file_ of your code (for archive purposes)
 
-→ [Go to assignments on Brightspace](/grading/a1.md)  
-
 
 
 [inspiration-cover]: assets/images/samy-is-my-hero.png
