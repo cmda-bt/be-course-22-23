@@ -23,11 +23,11 @@ _Coming Soon_
 
 ## Theory
 
-When working with multiple people on an app, it is best to avoid working in the same files as much as possible. Until now you have probably written most of your code in your main .js file (called index.js or server.js for example). From now on try to keep the main .js file as small as possible and look into using **[express-routers]** for handling differents paths. And when you look at routers, you will probably come into contact with the  **MVC architecture**. Another common feature is to look into **sessions or tokens** for authenticating a user (with a login for example). We'll cover this in the lecture but make sure you fully understand these concepts, the resources below can help.
+When working with multiple people on an app, it is best to avoid working in the same files as much as possible. Until now you have probably written most of your code in your main .js file (called index.js or server.js for example). From now on try to keep the main .js file as small as possible and look into using **[Express routers][express-routers]** for handling differents paths. And when you look at routers, you will probably come into contact with the  **MVC architecture**. Another common feature is to look into **sessions or tokens** for authenticating a user (with a login for example). We'll cover this in the lecture but make sure you fully understand these concepts, the resources below can help.
 
 *  [routers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
 *  [sessions and tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg)
-*  [model–view–controller]
+*  [MVC - Model, View, Controller][model–view–controller]
 
 ## Playground
 You can do these exercises before you start working on the assignments to get comfortable with the topics covered in class. Below are interactive self guided lesson modules from [freeCodeCamp](https://www.freecodecamp.org/learn).
@@ -52,7 +52,7 @@ The upcoming weeks you'll work with your team to create a complete matching appl
 
 #### Description
 
-You probably need to rewrite parts of your code in order to combine all features and add more features. Be sure to use **[express-routers]** and dive into to the **[MVC model–view–controller]** architecture. 
+You probably need to rewrite parts of your code in order to combine all features and add more features. Be sure to use **[Express routers][express-routers]** and dive into to the **[MVC model–view–controller][model–view–controller]** architecture. 
 
 
 ### Topic
