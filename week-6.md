@@ -22,14 +22,14 @@ _Coming Soon_
 
 ## Theory
 
-Before you start you'll probably want to read a bit about **Production environments** **Hosting,** **Deploying** and **MVC model**. We'll cover this in the lecture but make sure you fully understand these concept, the resources below can help.
+Before you start you'll probably want to read a bit about using **sessions or tokens** for authenticating a user and **MVC model**. We'll cover this in the lecture but make sure you fully understand these concept, the resources below can help.
 
+*  [sessions and tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg)
 *  [model–view–controller](https://en.wikipedia.org/wiki/Model–view–controller)
-*  [difference between development and production (article)](https://nodejs.dev/nodejs-the-difference-between-development-and-production)
 
 ## Assignments
 
-The upcoming weeks you'll work with your team to create a complete matching application. So most of the time of back-end is spend building out your application and adding more features. Additionaly you'll pick one topic.
+The upcoming weeks you'll work with your team to create a complete matching application. So most of the time of back-end is spend rewriting your code to combine all existing features and adding more features. Additionaly you'll pick one topic.
 
 > We expect you to atleast pick **one topic** but you can do more. It's important that you really do a deep-dive into the topic. So extensive research documented in the wiki and advanced implementation.
 
