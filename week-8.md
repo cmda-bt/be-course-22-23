@@ -12,7 +12,6 @@
 > [@noffle][inspiration-author].
 
 ## Table of Contents
-*  [Review](#review)
 *  [Assessment](#assesment)
 *  [Hand in](#hand-in)
 
