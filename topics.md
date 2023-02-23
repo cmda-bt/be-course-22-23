@@ -1,6 +1,6 @@
 # ![Backend - Topics][banner-topics]
 
-The last weeks of back-end (team project) you can pick 1 or more topics to work on for the team assessment for bonus points. So apart from 'just' building the application and making a coherent application from all the individual features you do a deep dive in a topic related to back-end. These topics range from security enhancements, application structure to performance optimizations.
+The last weeks of back-end (team project) you can pick 1 or more topics to work on **for bonus points**. So apart from 'just' building the application and making a coherent application from all the individual features you do a deep dive in a topic related to back-end. These topics range from security enhancements, application structure to performance optimizations.
 
 So we give you a starting point but you do your own research. In A2 you show the code of the topic; **implementation** but also the **research** in your wiki. 
 

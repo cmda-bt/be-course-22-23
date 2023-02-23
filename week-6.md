@@ -22,22 +22,47 @@ _Coming Soon_
 
 ## Theory
 
-Before you start you'll probably want to read a bit about using **sessions or tokens** for authenticating a user and **MVC model**. We'll cover this in the lecture but make sure you fully understand these concept, the resources below can help.
+When working with multiple people on an app, it is best to avoid working in the same files as much as possible. Until now you have probably written most of your code in your main .js file (called index.js or server.js for example). From now on try to keep the main .js file as small as possible and look into using **[Express Routers]** for handling differents paths. And when you look at routers, you will probably come into contact with the  **MVC architecture**. We'll cover this in the lecture but make sure you fully understand these concept, the resources below can help.
 
+Another common feature is to look into **sessions or tokens** for authenticating a user (with a login for example). 
+
+*  [routers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
 *  [sessions and tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg)
-*  [model–view–controller](https://en.wikipedia.org/wiki/Model–view–controller)
+*  [MVC model–view–controller]
+
+## Playground
+You can do these exercises before you start working on the assignments to get comfortable with the topics covered in class. The below are interactive self guided lesson modules from [freeCodeCamp](https://www.freecodecamp.org/learn).
+
+*   [mongodb and mongoose](https://www.freecodecamp.org/learn/back-end-development-and-apis/#mongodb-and-mongoose)
 
 ## Assignments
 
-The upcoming weeks you'll work with your team to create a complete matching application. So most of the time of back-end is spend rewriting your code to combine all existing features and adding more features. Additionaly you'll pick one topic.
+### Combine
 
-> We expect you to atleast pick **one topic** but you can do more. It's important that you really do a deep-dive into the topic. So extensive research documented in the wiki and advanced implementation.
+![Combine banner](assets/banners/combine.png)
+The upcoming weeks you'll work with your team to create a complete matching application. Make a coherent application from all the individual features.
+
+> **This is a team assignment but you'll be graded individually!** Each prototype contains an individually recognizable contribution of you based on the learning goals and topics of this course. So, you need to show you worked on something for back-end. For example; you can't just work on the CSS of the project because that was your role in the team.
+
+#### Synopsis
+
+*   **Homework**
+*   **Time**: 10:00h
+*   **Goals**: all subgoals,
+*   **Due**: before week 8
+
+#### Description
+
+You probably need to rewrite parts of your code in order to combine all features and add more features. Be sure to use **[Express Routers]** and dive into to the **[MVC model–view–controller]** architecture. 
+
 
 ### Topic
 
 ![Topic banner](assets/banners/topic.jpg)
 
-> Pick topics from the list below and work on those topics for your team assessment.
+Additionaly you can pick one or more topics to get **bonus points**. It's important that you really do a deep-dive into the topic. So extensive research documented in the wiki and advanced implementation.
+
+> Pick one or more topics from the list below and work on those topics for your team assessment.
 
 #### Synopsis
 
@@ -63,6 +88,9 @@ Your assignment will be reviewed by teachers and student assistants, so expect p
 [inspiration-cover]: assets/images/deploy-tweet.png
 [inspiration-link]: https://twitter.com/cassidoo/status/1154809678607446016?lang=en
 [inspiration-author]: https://twitter.com/cassidoo
+
+[Express Routers]: (https://expressjs.com/en/guide/routing.html#express-router)
+[MVC model–view–controller]: (https://en.wikipedia.org/wiki/Model–view–controller)
 
 [issues]: https://github.com/cmda-bt/be-course-22-23/issues
 [topics]: /topics.md
