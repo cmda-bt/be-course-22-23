@@ -13,6 +13,7 @@
 
 *  [Slides](#slides)
 *  [Theory](#theory)
+*  [Playground](#Playground)
 *  [Assignments](#assignments)
 *  [Hand in](#hand-in)
 
@@ -22,16 +23,14 @@ _Coming Soon_
 
 ## Theory
 
-When working with multiple people on an app, it is best to avoid working in the same files as much as possible. Until now you have probably written most of your code in your main .js file (called index.js or server.js for example). From now on try to keep the main .js file as small as possible and look into using **[Express Routers]** for handling differents paths. And when you look at routers, you will probably come into contact with the  **MVC architecture**. We'll cover this in the lecture but make sure you fully understand these concept, the resources below can help.
-
-Another common feature is to look into **sessions or tokens** for authenticating a user (with a login for example). 
+When working with multiple people on an app, it is best to avoid working in the same files as much as possible. Until now you have probably written most of your code in your main .js file (called index.js or server.js for example). From now on try to keep the main .js file as small as possible and look into using **[express-routers]** for handling differents paths. And when you look at routers, you will probably come into contact with the  **MVC architecture**. Another common feature is to look into **sessions or tokens** for authenticating a user (with a login for example). We'll cover this in the lecture but make sure you fully understand these concepts, the resources below can help.
 
 *  [routers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
 *  [sessions and tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg)
-*  [MVC model–view–controller]
+*  [model–view–controller]
 
 ## Playground
-You can do these exercises before you start working on the assignments to get comfortable with the topics covered in class. The below are interactive self guided lesson modules from [freeCodeCamp](https://www.freecodecamp.org/learn).
+You can do these exercises before you start working on the assignments to get comfortable with the topics covered in class. Below are interactive self guided lesson modules from [freeCodeCamp](https://www.freecodecamp.org/learn).
 
 *   [mongodb and mongoose](https://www.freecodecamp.org/learn/back-end-development-and-apis/#mongodb-and-mongoose)
 
@@ -53,7 +52,7 @@ The upcoming weeks you'll work with your team to create a complete matching appl
 
 #### Description
 
-You probably need to rewrite parts of your code in order to combine all features and add more features. Be sure to use **[Express Routers]** and dive into to the **[MVC model–view–controller]** architecture. 
+You probably need to rewrite parts of your code in order to combine all features and add more features. Be sure to use **[express-routers]** and dive into to the **[MVC model–view–controller]** architecture. 
 
 
 ### Topic
@@ -62,7 +61,7 @@ You probably need to rewrite parts of your code in order to combine all features
 
 Additionaly you can pick one or more topics to get **bonus points**. It's important that you really do a deep-dive into the topic. So extensive research documented in the wiki and advanced implementation.
 
-> Pick one or more topics from the list below and work on those topics for your team assessment.
+> Pick one or more topics from the list below and work on those topics for your team assessment to get bonus points.
 
 #### Synopsis
 
@@ -72,7 +71,7 @@ Additionaly you can pick one or more topics to get **bonus points**. It's import
 *   **Due**: before week 8
 
 #### Description
-This week you'll pick one topic (minimum, but you can do multiple) to work on for the team assessment. The topic can be anything related to back-end. The list below will give you some starting points. There are things likelike security enhancements, application structure, performance optimizations and many more.
+The topic can be anything related to back-end. The list below will give you some starting points. There are things like security enhancements, application structure, performance optimizations and many more.
 
 → [List of topics for inspiration][topics]
 
@@ -89,8 +88,8 @@ Your assignment will be reviewed by teachers and student assistants, so expect p
 [inspiration-link]: https://twitter.com/cassidoo/status/1154809678607446016?lang=en
 [inspiration-author]: https://twitter.com/cassidoo
 
-[Express Routers]: (https://expressjs.com/en/guide/routing.html#express-router)
-[MVC model–view–controller]: (https://en.wikipedia.org/wiki/Model–view–controller)
+[express-routers]: (https://expressjs.com/en/guide/routing.html#express-router)
+[model–view–controller]: (https://en.wikipedia.org/wiki/Model–view–controller)
 
 [issues]: https://github.com/cmda-bt/be-course-22-23/issues
 [topics]: /topics.md
