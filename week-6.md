@@ -23,7 +23,7 @@ _Coming Soon_
 
 ## Theory
 
-When working with multiple people on an app, it is best to avoid working in the same files as much as possible. Until now you have probably written most of your code in your main .js file (called index.js or server.js for example). From now on try to keep the main .js file as small as possible and look into using **[Express routers][express-routers]** for handling differents paths. And when you look at routers, you will probably come into contact with the  **MVC architecture**. Another common feature is to look into **sessions or tokens** for authenticating a user (with a login for example). We'll cover this in the lecture but make sure you fully understand these concepts, the resources below can help.
+When working with multiple people on an app, it is best to avoid working in the same files as much as possible. Until now you have probably written most of your code in your main .js file (called index.js or server.js for example). From now on try to keep the main .js file as small as possible and look into using [Express routers][express-routers] for handling differents paths. And when you look at routers, you will probably come into contact with the  **MVC architecture**. Another common feature is to look into **sessions or tokens** for authenticating a user (with a login for example). We'll cover this in the lecture but make sure you fully understand these concepts, the resources below can help.
 
 *  [routers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
 *  [sessions and tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg)
@@ -88,8 +88,8 @@ Your assignment will be reviewed by teachers and student assistants, so expect p
 [inspiration-link]: https://twitter.com/cassidoo/status/1154809678607446016?lang=en
 [inspiration-author]: https://twitter.com/cassidoo
 
-[express-routers]: (https://expressjs.com/en/guide/routing.html#express-router)
-[model–view–controller]: (https://en.wikipedia.org/wiki/Model–view–controller)
+[express-routers]: https://expressjs.com/en/guide/routing.html#express-router
+[model–view–controller]: https://en.wikipedia.org/wiki/Model–view–controller
 
 [issues]: https://github.com/cmda-bt/be-course-22-23/issues
 [topics]: /topics.md
