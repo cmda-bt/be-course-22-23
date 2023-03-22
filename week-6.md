@@ -19,7 +19,7 @@
 
 ## Slides
 
-_Coming Soon_
+- [Lab6][lab6]
 
 ## Theory
 
@@ -94,3 +94,5 @@ Your assignment will be reviewed by teachers and student assistants, so expect p
 
 [issues]: https://github.com/cmda-bt/be-course-22-23/issues
 [topics]: /topics.md
+
+[lab6]: /slides/be_lab-6_22-23.pdf
